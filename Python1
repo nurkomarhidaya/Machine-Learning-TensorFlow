@@ -1,0 +1,3 @@
+# Tipe Data
+a = 10
+print(a, "bertipe", type(a))
